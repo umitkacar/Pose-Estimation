@@ -191,12 +191,15 @@ Estimating 3D joint locations in world coordinates from images or videos - the f
 - 5× faster than Transformers
 - 📄 [Paper](https://arxiv.org/abs/2511.08872)
 
-**PoseMamba** (August 2024)
+**PoseMamba** (AAAI 2025)
+
 - Bidirectional global-local spatio-temporal SSM
 - Purely SSM-based (no convolutions)
 - Linear complexity for long sequences
 - Spatial reordering strategy
-- 📄 [Paper](https://arxiv.org/abs/2408.03540)
+- H36M **38.1 mm** MPJPE (PoseMamba-L)
+- [Code](https://github.com/nankingjing/PoseMamba) | [Weights](https://huggingface.co/nankingjings/PoseMamba-weights) | [Demo](https://huggingface.co/spaces/nankingjings/PoseMamba-Demo)
+- [Paper](https://arxiv.org/abs/2408.03540) | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32401)
 
 **Why Mamba for 3D Pose?**
 - ✅ Superior long-range modeling
