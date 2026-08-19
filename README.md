@@ -1182,6 +1182,7 @@ results = model('image.jpg')
 | **tf-pose-estimation** | TensorFlow implementation | Python | [GitHub](https://github.com/ildoonet/tf-pose-estimation) |
 | **PyTorch-Pose** | PyTorch models | Python | [GitHub](https://github.com/bearpaw/pytorch-pose) |
 | **PoseEstimationForMobile** | Mobile (iOS/Android) | Swift/Java | [GitHub](https://github.com/edvardHua/PoseEstimationForMobile) |
+| **PoseTracker** | React Native / Expo Go SDK (iOS + Android) | TypeScript | [GitHub](https://github.com/Movelytics/react-native-pose-estimation) |
 
 ### 📦 Conversion & Deployment
 
